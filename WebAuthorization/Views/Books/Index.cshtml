@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Library.Models.DTOBook>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Books</h1>
+    <form asp-action="Index" method="get">
+        <div class="form-actions no-color">
+            <p>
+                Find by title: <input type="text" name="SearchTitle" />
+                <input type="submit" value="Search" class="btn btn-default" />
+                <a asp-action="Index">Back to List</a>
+            </p>
+        </div>
+    </form>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Title)</th>
+                <th>@Html.DisplayNameFor(model => model.Pages)</th>
+                <th>@Html.DisplayNameFor(model => model.Price)</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.ActionLink(item.Title, "GetBookInfo", new { id = item.Id }, new { @style = "color:black;" })</td>
+                    <td>@Html.DisplayFor(modelItem => item.Pages)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                    <td>@Html.ActionLink("Buy", "BuyBook", new { id = item.Id }, new { @style = "font-size: 16px;color:white; background-color:green; padding:10px;" })</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

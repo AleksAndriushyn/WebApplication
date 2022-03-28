@@ -1,0 +1,19 @@
+D:\Мои документы\Документы\WEB\Library.Config\bin\Debug\netcoreapp3.1\Library.Config.deps.json
+D:\Мои документы\Документы\WEB\Library.Config\bin\Debug\netcoreapp3.1\Library.Config.dll
+D:\Мои документы\Документы\WEB\Library.Config\bin\Debug\netcoreapp3.1\Library.Config.pdb
+D:\Мои документы\Документы\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.AssemblyInfoInputs.cache
+D:\Мои документы\Документы\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.AssemblyInfo.cs
+D:\Мои документы\Документы\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.dll
+D:\Мои документы\Документы\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.pdb
+D:\Мои документы\Документы\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.csprojAssemblyReference.cache
+D:\Мои документы\Документы\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.csproj.CoreCompileInputs.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Config\bin\Debug\netcoreapp3.1\Library.Config.deps.json
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Config\bin\Debug\netcoreapp3.1\Library.Config.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Config\bin\Debug\netcoreapp3.1\Library.Config.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.csproj.CoreCompileInputs.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.AssemblyInfoInputs.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.AssemblyInfo.cs
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.csproj.AssemblyReference.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Config\obj\Debug\netcoreapp3.1\Library.Config.GeneratedMSBuildEditorConfig.editorconfig

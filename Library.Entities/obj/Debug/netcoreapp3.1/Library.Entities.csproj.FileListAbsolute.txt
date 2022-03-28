@@ -1,0 +1,25 @@
+D:\Мои документы\Документы\WEB\Library.Entities\bin\Debug\netcoreapp3.1\Library.Entities.deps.json
+D:\Мои документы\Документы\WEB\Library.Entities\bin\Debug\netcoreapp3.1\Library.Entities.dll
+D:\Мои документы\Документы\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.csprojAssemblyReference.cache
+D:\Мои документы\Документы\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.AssemblyInfoInputs.cache
+D:\Мои документы\Документы\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.AssemblyInfo.cs
+D:\Мои документы\Документы\WEB\Library.Entities\bin\Debug\netcoreapp3.1\Library.Entities.pdb
+D:\Мои документы\Документы\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.dll
+D:\Мои документы\Документы\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.pdb
+D:\Мои документы\Документы\WEB\Library.Entities\bin\Debug\netcoreapp3.1\Library.Entities.runtimeconfig.json
+D:\Мои документы\Документы\WEB\Library.Entities\bin\Debug\netcoreapp3.1\Library.Entities.runtimeconfig.dev.json
+D:\Мои документы\Документы\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.genruntimeconfig.cache
+D:\Мои документы\Документы\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.csproj.CoreCompileInputs.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\bin\Debug\netcoreapp3.1\Library.Entities.deps.json
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\bin\Debug\netcoreapp3.1\Library.Entities.runtimeconfig.json
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\bin\Debug\netcoreapp3.1\Library.Entities.runtimeconfig.dev.json
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\bin\Debug\netcoreapp3.1\Library.Entities.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\bin\Debug\netcoreapp3.1\Library.Entities.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.csproj.CoreCompileInputs.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.AssemblyInfoInputs.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.AssemblyInfo.cs
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.genruntimeconfig.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.csproj.AssemblyReference.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.Entities\obj\Debug\netcoreapp3.1\Library.Entities.GeneratedMSBuildEditorConfig.editorconfig

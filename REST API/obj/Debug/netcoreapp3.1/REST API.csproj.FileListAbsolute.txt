@@ -1,0 +1,321 @@
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\REST API.exe
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\REST API.deps.json
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\REST API.runtimeconfig.json
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\REST API.runtimeconfig.dev.json
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\REST API.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\REST API.pdb
+D:\Мои документы\Документы\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.csprojAssemblyReference.cache
+D:\Мои документы\Документы\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.AssemblyInfoInputs.cache
+D:\Мои документы\Документы\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.AssemblyInfo.cs
+D:\Мои документы\Документы\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.RazorTargetAssemblyInfo.cache
+D:\Мои документы\Документы\WEB\REST API\obj\Debug\netcoreapp3.1\staticwebassets\REST API.StaticWebAssets.Manifest.cache
+D:\Мои документы\Документы\WEB\REST API\obj\Debug\netcoreapp3.1\staticwebassets\REST API.StaticWebAssets.xml
+D:\Мои документы\Документы\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.dll
+D:\Мои документы\Документы\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.pdb
+D:\Мои документы\Документы\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.genruntimeconfig.cache
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Bl.Abstract.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Bl.Impl.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Config.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.DAL.Abstract.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.DAL.Impl.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Entities.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Models.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Bl.Abstract.pdb
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Bl.Impl.pdb
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Config.pdb
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.DAL.Abstract.pdb
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.DAL.Impl.pdb
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Entities.pdb
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Models.pdb
+D:\Мои документы\Документы\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.csproj.CopyComplete
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.csproj.CoreCompileInputs.cache
+D:\Мои документы\Документы\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.MvcApplicationPartsAssemblyInfo.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\REST API.exe
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\REST API.deps.json
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\REST API.runtimeconfig.json
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\REST API.runtimeconfig.dev.json
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\REST API.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\REST API.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Bl.Abstract.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Bl.Impl.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Library.DAL.Abstract.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Library.DAL.Impl.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Entities.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Models.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Bl.Abstract.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Bl.Impl.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Library.DAL.Abstract.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Library.DAL.Impl.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Entities.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Library.Models.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.csproj.CoreCompileInputs.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.MvcApplicationPartsAssemblyInfo.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.AssemblyInfoInputs.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.AssemblyInfo.cs
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.RazorTargetAssemblyInfo.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.csproj.CopyComplete
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\staticwebassets\REST API.StaticWebAssets.Manifest.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\staticwebassets\REST API.StaticWebAssets.xml
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.genruntimeconfig.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.csproj.AssemblyReference.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\scopedcss\bundle\REST API.styles.css

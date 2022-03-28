@@ -1,0 +1,33 @@
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Bl.Abstract.deps.json
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Bl.Abstract.dll
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Bl.Abstract.pdb
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.DAL.Abstract.dll
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Entities.dll
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.DAL.Abstract.pdb
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Entities.pdb
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.csprojAssemblyReference.cache
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.AssemblyInfoInputs.cache
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.AssemblyInfo.cs
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.csproj.CopyComplete
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.dll
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.pdb
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Models.dll
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Models.pdb
+D:\Мои документы\Документы\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.csproj.CoreCompileInputs.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Bl.Abstract.deps.json
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Bl.Abstract.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Bl.Abstract.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.DAL.Abstract.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Entities.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Models.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.DAL.Abstract.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Models.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\bin\Debug\netcoreapp3.1\Library.Entities.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.csproj.CoreCompileInputs.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.AssemblyInfoInputs.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.AssemblyInfo.cs
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.csproj.CopyComplete
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.pdb
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.csproj.AssemblyReference.cache
+D:\Мои документы\Документы\КПИ 2 курс\WEB\Library.BI.Abstract\obj\Debug\netcoreapp3.1\Library.Bl.Abstract.GeneratedMSBuildEditorConfig.editorconfig

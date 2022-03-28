@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Library.Models.DTOBook>
+
+@{
+    ViewData["Title"] = "Book Info";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Book Detail</h1>
+    @foreach (var item in Model)
+    {
+        <h2>@Html.DisplayFor(modelItem => item.Title)</h2>
+        <p>@Html.DisplayFor(modelItem => item.Text)</p>
+        <p>Price: @Html.DisplayFor(modelItem => item.Price)</p>
+        <a>@Html.ActionLink("Buy", "BuyBook", new { id = item.Id }, new { @style = "color:black;" })</a>
+    }
+</body>
+</html>

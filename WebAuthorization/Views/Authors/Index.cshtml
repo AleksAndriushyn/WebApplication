@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Library.Models.DTOAuthor>
+@{
+    ViewData["Title"] = "Index";
+}
+    
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Author</title>
+</head>
+<body>
+    <h1>Authors</h1>
+    <form asp-action="Index" method="get">
+        <div class="form-actions no-color">
+            <p>
+                Find by name: <input type="text" name="SearchString" />
+                <input type="submit" value="Search" class="btn btn-default" /> |
+                <a asp-action="Index">Back to List</a>
+            </p>
+            <p>
+                Find by date of birth: <input type="text" name="SearchDate" />
+                <input type="submit" value="Search" class="btn btn-default" /> |
+                <a asp-action="Index">Back to List</a>
+            </p>
+            <p>
+                Find by amount of author's books: <input type="text" name="SearchAmountOfBooks" />
+                <input type="submit" value="Search" class="btn btn-default" />
+                <a asp-action="Index">Back to List</a>
+            </p>
+        </div>
+    </form>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Date Of Birth</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.FirstName) @Html.DisplayFor(modelItem => item.LastName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.DateOfBirth)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

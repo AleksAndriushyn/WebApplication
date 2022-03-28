@@ -1,0 +1,377 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Impl\\Library.DAL.Impl.csproj": {}
+  },
+  "projects": {
+    "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.BI.Abstract\\Library.Bl.Abstract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.BI.Abstract\\Library.Bl.Abstract.csproj",
+        "projectName": "Library.Bl.Abstract",
+        "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.BI.Abstract\\Library.Bl.Abstract.csproj",
+        "packagesPath": "C:\\Users\\Aleks Andriushyn\\.nuget\\packages\\",
+        "outputPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.BI.Abstract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleks Andriushyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Abstract\\Library.DAL.Abstract.csproj": {
+                "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Abstract\\Library.DAL.Abstract.csproj"
+              },
+              "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Models\\Library.Models.csproj": {
+                "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Models\\Library.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Abstract\\Library.DAL.Abstract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Abstract\\Library.DAL.Abstract.csproj",
+        "projectName": "Library.DAL.Abstract",
+        "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Abstract\\Library.DAL.Abstract.csproj",
+        "packagesPath": "C:\\Users\\Aleks Andriushyn\\.nuget\\packages\\",
+        "outputPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Abstract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleks Andriushyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Entities\\Library.Entities.csproj": {
+                "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Entities\\Library.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Impl\\Library.DAL.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Impl\\Library.DAL.Impl.csproj",
+        "projectName": "Library.DAL.Impl",
+        "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Impl\\Library.DAL.Impl.csproj",
+        "packagesPath": "C:\\Users\\Aleks Andriushyn\\.nuget\\packages\\",
+        "outputPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Impl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleks Andriushyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.BI.Abstract\\Library.Bl.Abstract.csproj": {
+                "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.BI.Abstract\\Library.Bl.Abstract.csproj"
+              },
+              "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Abstract\\Library.DAL.Abstract.csproj": {
+                "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.DAL.Abstract\\Library.DAL.Abstract.csproj"
+              },
+              "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Entities\\Library.Entities.csproj": {
+                "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Entities\\Library.Entities.csproj"
+              },
+              "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Models\\Library.Models.csproj": {
+                "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Models\\Library.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Entities\\Library.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Entities\\Library.Entities.csproj",
+        "projectName": "Library.Entities",
+        "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Entities\\Library.Entities.csproj",
+        "packagesPath": "C:\\Users\\Aleks Andriushyn\\.nuget\\packages\\",
+        "outputPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleks Andriushyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Models\\Library.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Models\\Library.Models.csproj",
+        "projectName": "Library.Models",
+        "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Models\\Library.Models.csproj",
+        "packagesPath": "C:\\Users\\Aleks Andriushyn\\.nuget\\packages\\",
+        "outputPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleks Andriushyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Entities\\Library.Entities.csproj": {
+                "projectPath": "D:\\Мои документы\\Документы\\КПИ 2 курс\\WEB\\Library.Entities\\Library.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
