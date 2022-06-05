@@ -41,11 +41,10 @@ namespace WebAuthorization
             services.AddControllersWithViews();
             services.AddRazorPages();
             services.AddDbContext<LibraryContext>(options => options.UseSqlServer(Configuration.GetConnectionString("JsonConnection"), b => { b.MigrationsAssembly("WebAuthorization"); b.EnableRetryOnFailure(); }));
-            
+            services.AddScoped<ILibraryService, LibraryService>();
             services.AddScoped<IAuthorRepository, AuthorRepository>();
             services.AddScoped<IAuthors_BookRepository, Authors_BookRepository>();
             services.AddScoped<IBookRepository, BookRepository>();
-            services.AddScoped<IPurchasedBookRepository, PurchasedBookRepository>();
             services.AddTransient<IChapterRepository, ChapterRepository>();
             services.AddTransient<IReaderRepository, ReaderRepository>();
             services.AddTransient<IReaders_CardRepository, Readers_CardRepository>();
@@ -53,11 +52,9 @@ namespace WebAuthorization
             services.AddScoped<IAuthorService, AuthorService>();
             services.AddScoped<IBookService, BookService>();
             services.AddScoped<IReaderService, ReaderService>();
-            services.AddScoped<IPurchasedBookService, PurchasedBookService>();
             services.AddTransient<IAuthors_BookService, Authors_BookService>();
             services.AddTransient<IChapterService, ChapterService>();
             services.AddTransient<IReaders_CardService, Readers_CardService>();
-            services.AddTransient<ILibraryService, LibraryService>();
             
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
         }

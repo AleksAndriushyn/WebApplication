@@ -187,9 +187,6 @@ D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\b
 D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
@@ -319,3 +316,10 @@ D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\o
 D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.csproj.AssemblyReference.cache
 D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\REST API.GeneratedMSBuildEditorConfig.editorconfig
 D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\obj\Debug\netcoreapp3.1\scopedcss\bundle\REST API.styles.css
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\REST API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll

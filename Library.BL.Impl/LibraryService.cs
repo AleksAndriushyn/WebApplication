@@ -10,18 +10,16 @@ using System.Text;
 
 namespace Library.Bl.Impl
 {
-    public class LibraryService : ILibraryService
+    public class LibraryService: ILibraryService
     {
         private readonly IAuthorRepository _authorRepository;
         private readonly IAuthors_BookRepository _authorsBookRepository;
         private readonly IBookRepository _bookRepository;
-        private readonly IPurchasedBookRepository _purchasedBookRepository;
-        public LibraryService(IAuthorRepository authorRepository, IAuthors_BookRepository authorsBookRepository, IBookRepository bookRepository, IPurchasedBookRepository purchasedBookRepository)
+        public LibraryService(IAuthorRepository authorRepository, IAuthors_BookRepository authorsBookRepository, IBookRepository bookRepository)
         {
             _authorRepository = authorRepository;
             _authorsBookRepository = authorsBookRepository;
             _bookRepository = bookRepository;
-            _purchasedBookRepository = purchasedBookRepository;
         }
         public IEnumerable<DTOAuthor> FindByAmountOfBooks(int AmountOfBooks)
         {
@@ -40,13 +38,7 @@ namespace Library.Bl.Impl
             List<Book> recommendedBooks = new List<Book>();
             foreach (Book b in _bookRepository.EntityList())
             {
-                foreach(PurchasedBook pb in _purchasedBookRepository.EntityList())
-                {
-                    if (b.Id == pb.BookId)
-                        recommendedBooks.Add(b);
-                }
-                //if(_purchasedBookRepository.GetEntity(1).BookId==b.Id)
-                //    recommendedBooks.Add(b);
+                recommendedBooks.Add(b);   
             }
             return recommendedBooks.Select(obj=>BookMapper.Map(obj));
         }

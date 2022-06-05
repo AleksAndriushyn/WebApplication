@@ -112,26 +112,6 @@ namespace WebAuthorization.Migrations
                     b.ToTable("Chapters");
                 });
 
-            modelBuilder.Entity("Library.Entities.PurchasedBook", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<int>("BookId")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("Date")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("BookId");
-
-                    b.ToTable("Purchased Books");
-                });
-
             modelBuilder.Entity("Library.Entities.Reader", b =>
                 {
                     b.Property<int>("Id")
@@ -200,15 +180,6 @@ namespace WebAuthorization.Migrations
                 {
                     b.HasOne("Library.Entities.Book", "Books")
                         .WithMany("Chapters")
-                        .HasForeignKey("BookId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
-            modelBuilder.Entity("Library.Entities.PurchasedBook", b =>
-                {
-                    b.HasOne("Library.Entities.Book", "Books")
-                        .WithMany("Purchased_Books")
                         .HasForeignKey("BookId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();

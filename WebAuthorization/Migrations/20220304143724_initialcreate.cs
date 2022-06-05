@@ -101,26 +101,6 @@ namespace WebAuthorization.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Purchased Books",
-                columns: table => new
-                {
-                    Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    BookId = table.Column<int>(nullable: false),
-                    Date = table.Column<DateTime>(nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Purchased Books", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_Purchased Books_Books_BookId",
-                        column: x => x.BookId,
-                        principalTable: "Books",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
                 name: "Reader's Cards",
                 columns: table => new
                 {
@@ -165,11 +145,6 @@ namespace WebAuthorization.Migrations
                 column: "BookId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Purchased Books_BookId",
-                table: "Purchased Books",
-                column: "BookId");
-
-            migrationBuilder.CreateIndex(
                 name: "IX_Reader's Cards_BookId",
                 table: "Reader's Cards",
                 column: "BookId");
@@ -187,9 +162,6 @@ namespace WebAuthorization.Migrations
 
             migrationBuilder.DropTable(
                 name: "Chapters");
-
-            migrationBuilder.DropTable(
-                name: "Purchased Books");
 
             migrationBuilder.DropTable(
                 name: "Reader's Cards");

@@ -1,4 +1,7 @@
 ﻿@model IEnumerable<Library.Models.DTOBook>
+@using Library.Bl.Abstract
+@inject ILibraryService LibraryService
+
 @{
     ViewData["Title"] = "Index";
 }
@@ -11,15 +14,73 @@
 </head>
 <body>
     <h1>Books</h1>
+    @if (User.Identity.Name == "admin@gmail.com")
+    {
+        <p>
+            <a class="btn btn-primary" asp-action="Create">Create New</a>
+        </p>
+    }
     <form asp-action="Index" method="get">
         <div class="form-actions no-color">
             <p>
                 Find by title: <input type="text" name="SearchTitle" />
                 <input type="submit" value="Search" class="btn btn-default" />
-                <a asp-action="Index">Back to List</a>
+                <a class="btn btn-secondary" asp-action="Index">Back to List</a>
             </p>
         </div>
     </form>
+    @if (User.Identity.Name == "admin@gmail.com")
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.Title)</th>
+                    <th>@Html.DisplayNameFor(model => model.Pages)</th>
+                    <th>@Html.DisplayNameFor(model => model.Price)</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.ActionLink(item.Title, "GetBookInfo", new { id = item.Id }, new { @style = "color:black;" })</td>
+                        <td>@Html.DisplayFor(modelItem => item.Pages)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                        <td>
+                            <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.Id">Delete</a> |
+                            <a asp-action="Update" class="btn btn-secondary" asp-route-id="@item.Id">Update</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.Title)</th>
+                    <th>@Html.DisplayNameFor(model => model.Pages)</th>
+                    <th>@Html.DisplayNameFor(model => model.Price)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.ActionLink(item.Title, "GetBookInfo", new { id = item.Id }, new { @style = "color:black;" })</td>
+                        <td>@Html.DisplayFor(modelItem => item.Pages)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    <h4>Recommended Books</h4>
     <table class="table">
         <thead>
             <tr>
@@ -30,13 +91,12 @@
             </tr>
         </thead>
         <tbody>
-            @foreach (var item in Model)
+            @foreach (var item in @LibraryService.GetRecommendedBook())
             {
                 <tr>
-                    <td>@Html.ActionLink(item.Title, "GetBookInfo", new { id = item.Id }, new { @style = "color:black;" })</td>
+                    <td>@Html.DisplayFor(modelItem => item.Title)</td>
                     <td>@Html.DisplayFor(modelItem => item.Pages)</td>
                     <td>@Html.DisplayFor(modelItem => item.Price)</td>
-                    <td>@Html.ActionLink("Buy", "BuyBook", new { id = item.Id }, new { @style = "font-size: 16px;color:white; background-color:green; padding:10px;" })</td>
                 </tr>
             }
         </tbody>

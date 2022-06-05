@@ -34,6 +34,7 @@ namespace Library.DAL.Impl
 
         public void EntityInsert(T entity)
         {
+            //_context.Set<T>().AsNoTracking();
             _context.Set<T>().Add(entity);
             _context.SaveChanges();
         }

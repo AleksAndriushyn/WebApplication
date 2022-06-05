@@ -15,18 +15,18 @@
         <div class="form-actions no-color">
             <p>
                 Find by name: <input type="text" name="SearchString" />
-                <input type="submit" value="Search" class="btn btn-default" /> |
-                <a asp-action="Index">Back to List</a>
+                <input type="submit" value="Search" class="btn btn-default" />
+                <a class="btn btn-secondary" asp-action="Index">Back to List</a>
             </p>
             <p>
                 Find by date of birth: <input type="text" name="SearchDate" />
-                <input type="submit" value="Search" class="btn btn-default" /> |
-                <a asp-action="Index">Back to List</a>
+                <input type="submit" value="Search" class="btn btn-default" />
+                <a class="btn btn-secondary" asp-action="Index">Back to List</a>
             </p>
             <p>
                 Find by amount of author's books: <input type="text" name="SearchAmountOfBooks" />
                 <input type="submit" value="Search" class="btn btn-default" />
-                <a asp-action="Index">Back to List</a>
+                <a class="btn btn-secondary" asp-action="Index">Back to List</a>
             </p>
         </div>
     </form>
@@ -40,9 +40,10 @@
         <tbody>
             @foreach (var item in Model)
             {
+                var data = item.DateOfBirth.ToString("dd MMM yyyy");
                 <tr>
                     <td>@Html.DisplayFor(modelItem => item.FirstName) @Html.DisplayFor(modelItem => item.LastName)</td>
-                    <td>@Html.DisplayFor(modelItem => item.DateOfBirth)</td>
+                    <td>@Html.DisplayFor(modelItem => data)</td>
                 </tr>
             }
         </tbody>

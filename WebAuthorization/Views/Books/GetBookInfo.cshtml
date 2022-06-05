@@ -17,7 +17,6 @@
         <h2>@Html.DisplayFor(modelItem => item.Title)</h2>
         <p>@Html.DisplayFor(modelItem => item.Text)</p>
         <p>Price: @Html.DisplayFor(modelItem => item.Price)</p>
-        <a>@Html.ActionLink("Buy", "BuyBook", new { id = item.Id }, new { @style = "color:black;" })</a>
     }
 </body>
 </html>
