@@ -14,6 +14,5 @@ namespace Library.Models
         public List<DTOChapter> Chapters { get; set; }
         public List<DTOAuthors_Book> Authors_Books { get; set; }
         public List<DTOReaders_Card> Readers_Cards { get; set; }
-        public List<DTOPurchasedBook> Purchased_Books { get; set; }
     }
 }

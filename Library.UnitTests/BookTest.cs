@@ -20,7 +20,7 @@ namespace Library.UnitTests
             var mockBookService = new Mock<IBookService>();
             
             mockBookService.Setup(repo => repo.List())
-                .Returns(GetTestBooks());
+                .Returns(new List<DTOBook>());
             
             var book = new Book() { Id = 7, Text = "text" };
 

@@ -11,13 +11,13 @@ namespace WebApplication1.Controllers
     public class AuthorsController : Controller
     {
         private readonly IAuthorService _authorService;
-        private readonly ILibraryService _LibraryService;
-        public AuthorsController(IAuthorService authorService, ILibraryService LibraryService)
+        private readonly ILibraryService _libraryService;
+        public AuthorsController(IAuthorService authorService, ILibraryService libraryService)
         {
             _authorService = authorService;
-            _LibraryService = LibraryService;
+            _libraryService = libraryService;
         }
-        public IActionResult Index(string searchString, string searchDate, int SearchAmountOfBooks)
+        public IActionResult Index(string searchString, string searchDate, int searchAmountOfBooks)
         {
             DateTime dateofbirth = new DateTime();
             dateofbirth = Convert.ToDateTime(searchDate);
@@ -31,9 +31,9 @@ namespace WebApplication1.Controllers
             {
                 authors = _authorService.FindByDate(dateofbirth).ToList();
             }
-            if (SearchAmountOfBooks != 0)
+            if (searchAmountOfBooks != 0)
             {
-                return View(_LibraryService.FindByAmountOfBooks(SearchAmountOfBooks));
+                return View(_libraryService.FindByAmountOfBooks(searchAmountOfBooks));
             }
             return View(authors);
         }

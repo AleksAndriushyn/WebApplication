@@ -1,5 +1,4 @@
 ﻿using Library.Bl.Abstract;
-using Library.DAL.Abstract;
 using Library.DAL.Impl.Mappers;
 using Library.Entities;
 using Library.Models;
@@ -12,21 +11,21 @@ namespace Library.Bl.Impl
 {
     public class LibraryService: ILibraryService
     {
-        private readonly IAuthorRepository _authorRepository;
-        private readonly IAuthors_BookRepository _authorsBookRepository;
-        private readonly IBookRepository _bookRepository;
-        public LibraryService(IAuthorRepository authorRepository, IAuthors_BookRepository authorsBookRepository, IBookRepository bookRepository)
+        private readonly IAuthorService _authorService;
+        private readonly IAuthors_BookService _authorsBookService;
+        private readonly IBookService _bookService;
+        public LibraryService(IAuthorService authorService, IAuthors_BookService authorsBookService, IBookService bookService)
         {
-            _authorRepository = authorRepository;
-            _authorsBookRepository = authorsBookRepository;
-            _bookRepository = bookRepository;
+            _authorService = authorService;
+            _authorsBookService = authorsBookService;
+            _bookService = bookService;
         }
-        public IEnumerable<DTOAuthor> FindByAmountOfBooks(int AmountOfBooks)
+        public IEnumerable<DTOAuthor> FindByAmountOfBooks(int amountOfBooks)
         {
             List<Author> authors = new List<Author>();
-            foreach (var a in _authorRepository.EntityList())
+            foreach (var a in _authorService.EntityList())
             {
-                if(_authorsBookRepository.List(obj => obj.AuthorId == a.Id).Count() == AmountOfBooks)
+                if(_authorsBookService.List(obj => obj.AuthorId == a.Id).Count() == amountOfBooks)
                 {
                     authors.Add(a);
                 }
@@ -36,7 +35,7 @@ namespace Library.Bl.Impl
         public IEnumerable<DTOBook> GetRecommendedBook()
         {
             List<Book> recommendedBooks = new List<Book>();
-            foreach (Book b in _bookRepository.EntityList())
+            foreach (Book b in _bookService.EntityList())
             {
                 recommendedBooks.Add(b);   
             }

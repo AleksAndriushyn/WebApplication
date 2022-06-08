@@ -7,7 +7,6 @@ namespace Library.DAL.Abstract
 {
     public interface IAuthorRepository : IGenericRepository<Author>
     {
-        IEnumerable<Author> FindEntityByFirstName(string stringSearch);
-        IEnumerable<Author> FindEntityByDate(DateTime searchDate);
+
     }
 }
