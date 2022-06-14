@@ -9,7 +9,8 @@ namespace Library.Bl.Abstract
 {
     public interface IBookService : IBookRepository, IGenericService<DTOBook>
     {
-        public IEnumerable<DTOBook> FindByTitle(string searchTitle);
-        public IEnumerable<DTOBook> GetBookInfo(Book book);
+        IEnumerable<DTOBook> FindByTitle(string searchTitle);
+        IEnumerable<DTOBook> GetBookInfo(DTOBook book);
+        IEnumerable<DTOBook> GetRecommendedBooks();
     }
 }

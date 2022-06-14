@@ -9,6 +9,5 @@ namespace Library.Bl.Abstract
     public interface ILibraryService
     {
         IEnumerable<DTOAuthor> FindByAmountOfBooks(int AmountOfBooks);
-        IEnumerable<DTOBook> GetRecommendedBook();
     }
 }

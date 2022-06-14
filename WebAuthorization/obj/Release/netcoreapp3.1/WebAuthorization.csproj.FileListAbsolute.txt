@@ -33,9 +33,6 @@ D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthori
 D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -180,8 +177,11 @@ D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthori
 D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\obj\Release\netcoreapp3.1\WebAuthorization.csproj.AssemblyReference.cache
 D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\obj\Release\netcoreapp3.1\WebAuthorization.GeneratedMSBuildEditorConfig.editorconfig
 D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\obj\Release\netcoreapp3.1\scopedcss\bundle\WebAuthorization.styles.css
-D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\obj\Release\netcoreapp3.1\Razor\Views\Books\BuyBook.cshtml.g.cs
 D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\obj\Release\netcoreapp3.1\Razor\Views\Books\GetBookInfo.cshtml.g.cs
-D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\obj\Release\netcoreapp3.1\Razor\Views\PurchasedBooks\Index.cshtml.g.cs
-D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\obj\Release\netcoreapp3.1\Razor\Views\RecommendedBooks\Index.cshtml.g.cs
 D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\web.config
+D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\obj\Release\netcoreapp3.1\Razor\Views\Books\Create.cshtml.g.cs
+D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\obj\Release\netcoreapp3.1\Razor\Views\Books\Delete.cshtml.g.cs
+D:\Мои документы\Документы\КПИ 2 курс\WEB\WebAuthorization\obj\Release\netcoreapp3.1\Razor\Views\Books\Update.cshtml.g.cs

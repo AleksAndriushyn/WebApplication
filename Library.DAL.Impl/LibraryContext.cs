@@ -14,6 +14,7 @@ namespace Library.DAL.Impl
         public DbSet<Chapter> Chapters { get; set; }
         public DbSet<Reader> Readers { get; set; }
         public DbSet<Readers_Card> Readers_Cards { get; set; }
+        public DbSet<RecommendedBook> Recommended_Books { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -23,6 +24,7 @@ namespace Library.DAL.Impl
             modelBuilder.Entity<Chapter>().ToTable("Chapters");
             modelBuilder.Entity<Reader>().ToTable("Readers");
             modelBuilder.Entity<Readers_Card>().ToTable("Reader's Cards");
+            modelBuilder.Entity<RecommendedBook>().ToTable("Recommended Books");
             //Storage.SeedDataBase(modelBuilder);
         }
     }

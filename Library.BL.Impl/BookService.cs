@@ -1,20 +1,19 @@
-﻿using Library.DAL.Impl;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using Library.Bl.Abstract;
-using Library.Models;
-using System.Linq;
+﻿using Library.Bl.Abstract;
+using Library.DAL.Impl;
 using Library.DAL.Impl.Mappers;
-using Library.Entities;
+using Library.Models;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Library.Bl.Impl
 {
     public class BookService : BookRepository, IBookService
     {
-        public BookService(LibraryContext context) : base(context)
+        private readonly IRecommendedBookService _recommendedBookService;
+        List<DTOBook> recommendedBooks = new List<DTOBook>();
+        public BookService(LibraryContext context, IRecommendedBookService recommendedBookService) : base(context)
         {
-
+            _recommendedBookService = recommendedBookService;
         }
        
         public List<DTOBook> List()
@@ -42,11 +41,25 @@ namespace Library.Bl.Impl
             return books.Select(obj => BookMapper.Map(obj)).ToList();
         }
 
-        public IEnumerable<DTOBook> GetBookInfo(Book book)
+        public IEnumerable<DTOBook> GetBookInfo(DTOBook book)
         {
             var books = this.EntityList();
             books = books.Where(s => s.Id == book.Id).ToList();
+            foreach (var b in books)
+                _recommendedBookService.Insert(new DTORecommendedBook() {Title=b.Title, Text=b.Text, Price=b.Price, Pages=b.Pages});
+            
             return books.Select(obj => BookMapper.Map(obj)).ToList();
+        }
+
+        public IEnumerable<DTOBook> GetRecommendedBooks()
+        {
+            var tempRecommendedBooks = _recommendedBookService.List();
+            foreach(var rb in tempRecommendedBooks)
+            {
+                recommendedBooks.Add(new DTOBook() { Title = rb.Title, Text = rb.Text, Price = rb.Price, Pages = rb.Pages });
+            }
+
+            return recommendedBooks.ToList();
         }
     }
 }

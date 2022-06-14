@@ -1,14 +1,9 @@
-﻿using System;
+﻿using Library.Bl.Abstract;
+using Library.Models;
+using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using Library.Bl.Abstract;
-using Library.Entities;
-using Library.Models;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
 
 namespace WebApplication1.Controllers
 {
@@ -32,7 +27,7 @@ namespace WebApplication1.Controllers
             return View(books);
         }
 
-        public IActionResult GetBookInfo(Book book)
+        public IActionResult GetBookInfo(DTOBook book)
         {
             return View(_bookService.GetBookInfo(book));
         }
@@ -53,10 +48,12 @@ namespace WebApplication1.Controllers
             }
             return View(book);
         }
+
         public IActionResult Delete(int id)
         {
             return View(_bookService.Get(id));
         }
+
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public IActionResult ConfirmDelete(int id)
@@ -64,10 +61,12 @@ namespace WebApplication1.Controllers
             _bookService.DeleteEntity(id);
             return RedirectToAction(nameof(Index));
         }
+
         public IActionResult Update(int id)
         {
             return View(_bookService.Get(id));
         }
+
         [HttpPost, ActionName("Update")]
         [ValidateAntiForgeryToken]
         public IActionResult ConfirmUpdate([Bind("Id, Title, Text, Price, Pages")] DTOBook book)

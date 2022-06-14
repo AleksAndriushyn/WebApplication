@@ -4,7 +4,6 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>aspnet-WebAuthorization-3BAF6861-EFA0-48AE-914E-236C1E0B0E69</UserSecretsId>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
-    <DockerfileContext>..\WebApplication1</DockerfileContext>
   </PropertyGroup>
 
   <ItemGroup>

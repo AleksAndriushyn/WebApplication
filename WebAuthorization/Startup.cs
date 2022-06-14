@@ -51,6 +51,7 @@ namespace WebAuthorization
 
             services.AddScoped<IAuthorService, AuthorService>();
             services.AddScoped<IBookService, BookService>();
+            services.AddScoped<IRecommendedBookService, RecommendedBookService>();
             services.AddScoped<IReaderService, ReaderService>();
             services.AddTransient<IAuthors_BookService, Authors_BookService>();
             services.AddTransient<IChapterService, ChapterService>();

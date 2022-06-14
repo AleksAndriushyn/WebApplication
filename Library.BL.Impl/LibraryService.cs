@@ -13,13 +13,14 @@ namespace Library.Bl.Impl
     {
         private readonly IAuthorService _authorService;
         private readonly IAuthors_BookService _authorsBookService;
-        private readonly IBookService _bookService;
-        public LibraryService(IAuthorService authorService, IAuthors_BookService authorsBookService, IBookService bookService)
+        private readonly IRecommendedBookService _recommendedBookService;
+        public LibraryService(IAuthorService authorService, IAuthors_BookService authorsBookService, IRecommendedBookService recommendedBookService)
         {
             _authorService = authorService;
             _authorsBookService = authorsBookService;
-            _bookService = bookService;
+            _recommendedBookService = recommendedBookService;
         }
+        
         public IEnumerable<DTOAuthor> FindByAmountOfBooks(int amountOfBooks)
         {
             List<Author> authors = new List<Author>();
@@ -32,14 +33,10 @@ namespace Library.Bl.Impl
             }
             return authors.Select(obj => AuthorMapper.Map(obj)).ToList();
         }
-        public IEnumerable<DTOBook> GetRecommendedBook()
+
+        public IEnumerable<DTORecommendedBook> GetRecommendedBook()
         {
-            List<Book> recommendedBooks = new List<Book>();
-            foreach (Book b in _bookService.EntityList())
-            {
-                recommendedBooks.Add(b);   
-            }
-            return recommendedBooks.Select(obj=>BookMapper.Map(obj));
+            return _recommendedBookService.List();
         }
     }
 }

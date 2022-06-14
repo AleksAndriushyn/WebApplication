@@ -1,6 +1,6 @@
 ﻿@model IEnumerable<Library.Models.DTOBook>
 @using Library.Bl.Abstract
-@inject ILibraryService LibraryService
+@inject IBookService BookService
 
 @{
     ViewData["Title"] = "Index";
@@ -81,17 +81,17 @@
     }
 
     <h4>Recommended Books</h4>
+    
     <table class="table">
         <thead>
             <tr>
                 <th>@Html.DisplayNameFor(model => model.Title)</th>
                 <th>@Html.DisplayNameFor(model => model.Pages)</th>
                 <th>@Html.DisplayNameFor(model => model.Price)</th>
-                <th></th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var item in @LibraryService.GetRecommendedBook())
+            @foreach (var item in BookService.GetRecommendedBooks())
             {
                 <tr>
                     <td>@Html.DisplayFor(modelItem => item.Title)</td>
@@ -99,7 +99,7 @@
                     <td>@Html.DisplayFor(modelItem => item.Price)</td>
                 </tr>
             }
-        </tbody>
+            </tbody>
     </table>
 </body>
 </html>

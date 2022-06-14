@@ -161,6 +161,30 @@ namespace WebAuthorization.Migrations
                     b.ToTable("Reader's Cards");
                 });
 
+            modelBuilder.Entity("Library.Entities.RecommendedBook", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int>("Pages")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Price")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Text")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Title")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Recommended Books");
+                });
+
             modelBuilder.Entity("Library.Entities.Authors_Book", b =>
                 {
                     b.HasOne("Library.Entities.Author", "Authors")
